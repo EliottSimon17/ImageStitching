@@ -3,7 +3,9 @@
 
 Example of stitching: \\
 
-Given;:
-![Image1](image3_assignment1a.jpg)
+Given:
+Left Image            |  Right Image
+:-------------------------:|:-------------------------:
+![](image3_assignment1a.jpg)  |  ![](image3_assignment1b.jpg)
 
 

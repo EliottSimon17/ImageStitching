@@ -12,5 +12,6 @@ Left Image            |  Right Image
 Resulting image after stitching:<br/>
 
 
+![](stitched.png)
 
 

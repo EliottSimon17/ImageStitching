@@ -1,7 +1,7 @@
 # Image Stitching
 
 
-Example of stitching: \\
+Example of stitching: \
 
 Given:
 Left Image            |  Right Image
